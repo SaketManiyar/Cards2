@@ -9,7 +9,7 @@ function createCard(entry) {
       key={entry.id}
       emoji={entry.emoji} // the fields will fill the cards
       name={entry.name}
-      meaning={entry.meaning}
+      description={entry.meaning}
     />
   );
 }
