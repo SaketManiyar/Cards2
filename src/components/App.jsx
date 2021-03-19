@@ -29,3 +29,8 @@ function App() {
 export default App;
 
 // line 24: passing the array emojipedia into createCard fn: 2ndstep
+
+//step1: Create card component.
+//step2: create props to replace hardcoded data.
+//step3: import the emojipedia const.
+//step4: map through the emojipedia and render Card components.
